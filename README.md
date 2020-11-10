@@ -2,18 +2,18 @@
 
 Este é o repositório. Os mini-projectos são iniciativas.
 
-# 🤔 Contexto 
+## 🤔 Contexto 
 
-# 🥅 Objectivo
+## 🥅 Objectivo
 
-# 📊 Fontes de dados
+## 📊 Fontes de dados
 
-# 🧱 Principais etapas
+## 🧱 Principais etapas
 
-# 🎯 Resultado final esperado
+## 🎯 Resultado final esperado
 
-# 👥 Tamanho máximo da equipa
+## 👥 Tamanho máximo da equipa
 
-# ⏲️ Duração esperada
+## ⏲️ Duração prevista
 
-# 🔁 Reprodutibilidade
+## 🔁 Reprodutibilidade

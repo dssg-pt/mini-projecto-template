@@ -44,8 +44,12 @@ Dado o tamanho da equipa e os resultados finais descritos, este mini-projecto te
 
 **TODO**: Ambientes virtuais, dependências, etc. 
 
+# 👉 Chegaste aqui e queres juntar-te a este Mini-Projecto?
+
+Vê a [#1](/../../issues/1).
+
+--- 
+
 ## 📜 Sobre os Mini-Projectos
 
 _Os Mini-Projectos são iniciativas da [DSSG PT](https://dssg.pt) em que uma pequena equipa de Voluntários trabalha de forma independente numa iniciativa concreta e a curto prazo que, baseada em dados abertos, visa gerar resultados valiosos para a sociedade em geral. A lista de Mini-Projectos activos pode ser [consultada no nosso GitHub](https://github.com/dssg-pt/)._
-
-Interessado? Vê a [#1](/../../issues/1).

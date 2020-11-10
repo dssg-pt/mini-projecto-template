@@ -1,6 +1,6 @@
 # 👶🚀 Mini-Projecto [NOME_DO_MINI_PROJECTO] 
 
-Este é o repositório. Os mini-projectos são cenas.
+Este é o repositório. Os mini-projectos são iniciativas.
 
 # 🤔 Contexto 
 
@@ -14,4 +14,6 @@ Este é o repositório. Os mini-projectos são cenas.
 
 # 👥 Tamanho máximo da equipa
 
-# ⏲️ Duração
+# ⏲️ Duração esperada
+
+# 🔁 Reprodutibilidade

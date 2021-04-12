@@ -46,7 +46,7 @@ Dado o tamanho da equipa e os resultados finais descritos, este mini-projecto te
 
 # 👉 Chegaste aqui e queres juntar-te a este Mini-Projecto?
 
-Vê a [#1](/../../issues/1). Uma eventual aceitação da candidatura implica a aceitação da nossa política de privacidade, disponíve [aqui](https://www.dssg.pt/privacy-policy/). 
+Vê a [#1](/../../issues/1). Participar num Mini-Projecto implica a aceitação da nossa política de privacidade, disponível [aqui](https://www.dssg.pt/privacy-policy/). 
 
 --- 
 
